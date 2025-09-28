@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- Cosmic Programming Cover Image -->
-<img src="https://www.sciencedaily.com/images/1920/Galaxy-Simulation.webp" alt="Cosmic Code Universe" width="98.8%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3);"/>
+<img src="https://www.sciencedaily.com/images/1920/Galaxy-Simulation.webp" alt="Cosmic Code Universe" width="100.1%" style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3);"/>
 
 </div>
 
